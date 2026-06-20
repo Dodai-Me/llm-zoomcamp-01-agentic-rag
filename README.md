@@ -1,1 +1,1 @@
-# llm-zoomcamp-01-agentic-rag
+#### Followed through the DataTalks.Club LLM Zoomcamp Modlule 1
